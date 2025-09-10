@@ -8,6 +8,7 @@ Automating Student Results with WPS
 ## ‎The goal was:
 - when you select an exam number, it should automatically display the student’s name, subjects, and grades.(waec format)
 - when you select the name, it should automatically display the student’s picture, gender, subjects, and grades.(school format)
+  ![Alt text](
 --
 ## I made use of VLOOKUP, FILTER function, DATA VALIDATION (drop-down )  to achieve this.
 ---
